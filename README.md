@@ -1,12 +1,3 @@
-# Elektronik Cihaz Arıza Servis Sistemi
-
-- Öğrendiklerimi pekiştirmek amaçlı geliştirdiğim bir Java projesi.
-- Kullanıcı arayüzü ve veritabanından oluşan bir proje.
-- Kullandığım teknolojiler ve özellikler: Java (Swing), MySQL.
-
-Bu uygulama sayesinde kullanıcılar arızalı cihazları için arıza kaydı oluşturabilir ve güncel tamirat durumunu görüntüleyebilirler. Yöneticiler de oluşturulan arıza kayıtlarını ilgili kullanıcı bilgileriyle görüntüleyebilir ve tamir işlemi tamamlandıktan sonra kayıt durumunu güncelleyebilirler.
-
-
 # Electronic Devices Breakdown Repair System
 
 - It is a simple Java project which made for educational purposes.
